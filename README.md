@@ -1,39 +1,21 @@
-## Hello world! 👋
-#### Welcome to my profile! I am a young programmer, full of passion, commitment and determination in what he does. I have been programming since I was 15. It was then that I wrote my first program: mini-calculator. However I discovered my true vocation in web development. I really like to fulfill myself in it. I still want to learn and expand my knowledge!
+# 🌐 WELCOME!
 
-🕹️ Front-End Developer <br />
-🚩 Poland <br />
-
-## Technologies 
-<div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/55290995/234108430-03a4c2e9-63f6-4d37-8ca2-6988b0cddf7d.png" style="width: 70px;">
-  <img src="https://user-images.githubusercontent.com/55290995/234108578-6374801e-68ec-43f7-84ac-0cc796f4132d.png" style="width: 70px;">
-  <img src="https://user-images.githubusercontent.com/55290995/234109039-32f43833-a63c-4359-9c74-37c4c7351f7d.png" style="width: 65px;">
-</div>
-<div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/55290995/234108669-99597077-fc82-4dca-929d-c353965aa72c.png" style="width: 70px;">
-  <img src="https://user-images.githubusercontent.com/55290995/234109881-5c4eb953-d499-45bc-9dbd-61a7fe01e6b9.png" style="width: 65px;">
-  <img src="https://github.com/KamilSajdera/KamilSajdera/assets/55290995/ec0e4abb-e7cc-4dd4-9729-76f865a48aa6" style="width: 70px;">
-
-</div>
-<div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/55290995/196771838-515a2e39-a411-45a5-a361-192a8b79983f.png" style="width: 70px;">
-  <img src="https://user-images.githubusercontent.com/55290995/196772128-1074a9bc-04f3-4e1d-9845-0bbda680fd50.png" style="width: 70px;">
- </div>
+### Hi! 👋 I am a Front-End Developer with a passion for creating dynamic, efficient and intuitive web applications. My skills include designing component user interfaces with an emphasis on aesthetics, responsiveness and accessibility. I work mainly in React and Next.js, creating modern SPA and SSR applications. Check my projects!
 
 
- ## Contact
-   <p>
-      <a href="https://www.linkedin.com/in/kamil-sajdera-6929b6206/">
-        <img src="https://user-images.githubusercontent.com/55290995/196773862-ad74f952-5362-4ac2-b8db-fa6d317b5d9c.png">
-      </a>
-      <a href="mailto:kamilsajdera@gmail.com">
-        <img src="https://user-images.githubusercontent.com/55290995/196774576-26959976-a719-45c4-9507-8b194be85083.png">
-      </a>
-    </p>
+## 🛠 Technologies
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 📫 Contact
 
-
-
-
+* 🌐 [Portfolio](https://kamilsajdera.github.io)
+* 💼 [LinkedIn](https://www.linkedin.com/in/kamil-sajdera-6929b6206)
+* 📧 [Mail](mailto:kamilsajdera@gmail.com)  
